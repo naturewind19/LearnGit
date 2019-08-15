@@ -15,3 +15,7 @@ let obj={
 }
 
 console.log(add(1));
+
+function x(){
+    return "1";
+}
